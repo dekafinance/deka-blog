@@ -4,7 +4,7 @@
   </a>
 </p>
  
-:octocat: Official repository for the deka.finance website.
+:octocat: Official repository for the deka.finance blog.
 
 ## Installation
 
