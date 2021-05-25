@@ -16,7 +16,7 @@ draft: false
 
 ## Allocation & Distribution
 The intial $DKA tokens supply were pre-minted, and are distributed as follows:
-- Bolt Campaign = 440,000 $DKA (1 $DKA = 0.30 $BUSD)
+- Public Sale Campaign = 440,000 $DKA (1 $DKA = 0.30 $BUSD)
 - Liquidity Pool = 60,000 $DKA (1 $DKA = 0.25 $BUSD)
 - Mining Program = 200,000 $DKA
 - Bounties/Airdrops = 200,000 $DKA
